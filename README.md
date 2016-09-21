@@ -1,2 +1,2 @@
 # utsa_test_repo
-THIS IS A TEST 2
+THIS IS A TEST
